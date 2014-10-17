@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zlq:home|Door43 (zlq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zlq|d43-zlq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zlq/archive/master.zip|d43-zlq.zip]]
+
+**Recent Changes**
+{{changes>ns = zlq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zlq|Ethnologue data]]
+
